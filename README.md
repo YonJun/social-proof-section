@@ -1,3 +1,3 @@
 # social-proof-section
 Created with CodeSandbox
-[I'm an inline-style link](https://www.google.com)
+See: https://csb-8rb91-mm4ic2o0i.vercel.app/
