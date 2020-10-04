@@ -1,0 +1,12 @@
+.debug {
+  /* Very Dark Magenta:  */
+  background-color: hsl(300, 43%, 22%);
+  /* Soft Pink:  */
+  background-color: hsl(333, 80%, 67%);
+  /* Dark Grayish Magenta:  */
+  background-color: hsl(303, 10%, 53%);
+  /* Light Grayish Magenta:  */
+  background-color: hsl(300, 24%, 96%);
+  /* White:  */
+  background-color: hsl(0, 0%, 100%);
+}
