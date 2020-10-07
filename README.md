@@ -1,5 +1,5 @@
 # social-proof-section
-Created with CodeSandbox and mataerial-ui
+Created with CodeSandbox and material-ui
 
 See: https://csb-8rb91-mm4ic2o0i.vercel.app/
 
